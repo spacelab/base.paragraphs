@@ -1,0 +1,27 @@
+{
+  "name": "spacelab-base.paragraphs",
+  "version": "0.1.0",
+  "authors": [
+    "Axel Salder",
+    "Daniel Blomeyer"
+  ],
+  "description": "here be a description",
+  "main": "_functions.base.paragraphs",
+  "keywords": [
+    "spacelab",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/spacelab/base.paragraphs/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "spacelab-base.document": "spacelab/base.document"
+  }
+}

@@ -1,0 +1,7 @@
+$intro-font-size:   $document-font-size * 1.2 !default;
+$intro-line-height: $document-line-height !default;
+
+%intro,
+.intro {
+  @include font-size($intro-font-size, $intro-line-height);
+}
