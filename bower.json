@@ -22,6 +22,6 @@
     "tests"
   ],
   "dependencies": {
-    "spacelab-base.settings": "spacelab/base.settings"
+    "spacelab-settings.defaults": "spacelab/settings.defaults"
   }
 }
