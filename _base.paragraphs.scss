@@ -5,3 +5,7 @@ $intro-line-height: $base-line-height !default;
 .intro {
   @include font-size($intro-font-size, $intro-line-height);
 }
+
+p {
+	@extend %trailing;
+}
