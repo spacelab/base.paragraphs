@@ -22,6 +22,7 @@
     "tests"
   ],
   "dependencies": {
-    "spacelab-settings.defaults": "spacelab/settings.defaults"
+    "spacelab-settings.defaults": "spacelab/settings.defaults",
+    "spacelab-mixins.font-size": "spacelab/mixins.font-size"
   }
 }
